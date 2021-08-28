@@ -1,3 +1,3 @@
 # DFS_Pathplaner
 
-![](output/example.png%201-1.png?raw=true)
+![](https://github.com/LuBru90/DFS_Pathplaner/output/example.png)
